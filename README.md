@@ -1,4 +1,4 @@
-# vuejs-first
+# vuejs_first
 
 ## Build Setup
 
